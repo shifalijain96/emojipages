@@ -632,6 +632,14 @@ const emojiItems = [
     year: 1937
   },
   {
+    title: "The Old Man and the Sea",
+    author: "Ernest Hemingway",
+    emojiImgs: "👴👨🌊🐳",
+    genres: ["fiction"],
+    year: 1952,
+    itemLink: "https://www.goodreads.com/book/show/2165.The_Old_Man_and_the_Sea"
+  },
+  {
     title: "Othello",
     author: "William Shakespeare",
     emojiImgs: "👨👎👨🏿⚔️👩‍🦰",
